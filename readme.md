@@ -8,6 +8,10 @@
 
 Catatan teori: https://docs.google.com/document/d/1B-y5YZLa3TrqxlVtaoD8l18vJFwXCKt0/edit?usp=sharing&ouid=102860775893369982383&rtpof=true&sd=true
 
+Source:  
+- https://www.udemy.com/course/elasticsearch-complete-guide
+- https://www.youtube.com/playlist?list=PL-CtdCApEFH_tVTwrxVt0K5LmtVT2u8fh
+
 
 
 # Praktik
